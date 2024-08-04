@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KID To Do List</string>
+
+    <string name="todays_tasks">Today\'s tasks</string>
+    <string name="welcome">Welcome</string>
+    <string name="task_options_button">Task view options</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="due_to">Due to</string>
+    <string name="due_to_time">Due to time</string>
+    <string name="ok">OK</string>
+    <string name="newTask">New Task</string>
+    <string name="save">Save</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="critical">Critical</string>
+    <string name="priority">Priority</string>
+    <string name="new_task_button">New task button</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KID To Do List</string>
+
+    <string name="todays_tasks">مهام اليوم</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="task_options_button">زر خيارات المهمة</string>
+    <string name="description">الوصف</string>
+    <string name="date">التاريخ</string>
+    <string name="due_to">آخر أجل</string>
+    <string name="due_to_time">وقت الإنتهاء</string>
+    <string name="ok">حسنا</string>
+    <string name="newTask">مهمة جديدة</string>
+    <string name="save">حفظ</string>
+    <string name="low">منخفضة</string>
+    <string name="medium">متوسطة</string>
+    <string name="high">عالية</string>
+    <string name="critical">حرجة</string>
+    <string name="priority">الأولوية</string>
+
+</resources>
